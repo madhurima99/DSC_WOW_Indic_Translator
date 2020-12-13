@@ -1,0 +1,11 @@
+pytesseract
+PIL
+Pillow
+numpy
+unicode
+scikitlearn
+matplotlib
+unicode
+re
+tensorflow
+io
